@@ -1,6 +1,5 @@
 # Decision-Tree-Character-Identifier-CSC311
 
-# Decision-Tree Character Identifier
 
 A simple Python CLI that “20 Questions”-style guesses a character from a CSV dataset by asking the most informative yes/no questions.
 
